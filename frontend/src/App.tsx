@@ -5,15 +5,15 @@ import Header from "./components/Header"
 import SalesCard from "./components/SalesCard";
 
 function App() {
-  return(
+  return (
       <>
-      <Header />
+        <Header/>
         <main>
-            <section>
-                <div className="dsmeta-container">
-                    <SalesCard />
-                </div>
-            </section>
+          <section>
+            <div className="dsmeta-container">
+              <SalesCard/>
+            </div>
+          </section>
         </main>
       </>
   )
