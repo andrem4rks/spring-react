@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All in spring-react" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="spring-react" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <envs>
+      <env name="TWILIO_SID" value="ACaa591d28b0f22b53352db6038b1a9a6e" />
+      <env name="TWILIO_KEY" value="49e43ec88c22df133fd97f13c4860f04" />
+      <env name="TWILIO_PHONE_FROM" value="+15618164803" />
+      <env name="TWILIO_PHONE_TO" value="+5568996060153" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
